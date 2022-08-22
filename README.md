@@ -22,7 +22,8 @@ KaseiCoin Deployer Contract Compiled
 
 The Contract Working
 
-![Screenshot 2022-08-04 125024](https://user-images.githubusercontent.com/98926901/185821880-0ae20ad3-6ef5-4997-8fed-14cf7d1c8af6.jpg)
+<img width="767" alt="Screenshot 2022-08-21 213223" src="https://user-images.githubusercontent.com/98926901/185821958-b23e4ee5-f1ec-4fd3-8f5f-7a2555327858.png">
+
 
 
 ## Contributors
