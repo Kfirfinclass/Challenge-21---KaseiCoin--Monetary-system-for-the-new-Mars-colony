@@ -24,7 +24,15 @@ The Contract Working
 
 <img width="767" alt="Screenshot 2022-08-21 213223" src="https://user-images.githubusercontent.com/98926901/185821958-b23e4ee5-f1ec-4fd3-8f5f-7a2555327858.png">
 
+Coins Minted
 
+<img width="202" alt="Screenshot 2022-08-27 111618" src="https://user-images.githubusercontent.com/98926901/187036410-42651aa7-673c-4fef-875f-995833ee408d.png">
+
+
+
+Coin Allowance 
+
+<img width="206" alt="Screenshot 2022-08-27 111634" src="https://user-images.githubusercontent.com/98926901/187036415-7d40bb45-3532-4730-bf87-cf9a27e2d1eb.png">
 
 ## Contributors
 
